@@ -40,6 +40,8 @@ public class Application {
 		{
 			p.printName();
 		}
+		
+		// NOWA ZMIANA
 	}
 
 }
